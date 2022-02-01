@@ -1,0 +1,22 @@
+body{
+	background-color: black;
+}
+
+table{
+	
+	margin: 30;
+	padding: 30; 
+	background-color: powderblue; 
+	font-family: 'Poppins', sans-serif; 
+
+	
+} 
+
+table, td{
+	padding-left: 15px;
+	
+}
+
+
+ 
+
